@@ -1,6 +1,7 @@
 import { CarProps } from "@/types";
 import { FilterProps } from "@/types";
 
+
 export async function fetchCars(filters: FilterProps) {
   const { Manufacturer, year, model, limit, fuel } = filters;
     const headers = {
