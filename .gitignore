@@ -33,3 +33,6 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+#RAPID API KEY
+'X-RapidAPI-Key': '2182633700msh3d8ed4dd58fea90p190095jsnbdde3f0839cc',
