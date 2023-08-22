@@ -9,8 +9,8 @@
     <img src="Primautomotive-portfolio.png" alt="Primautomotive">
 
 
-  <h2>About Primautomotive </h2>
-  <p>Primautomotive adalah aplikasi sewa mobil berbasis website yang dikembangkan menggunakan NextJS 13.</p>
+  <h2>About Primautomotive 🚘 </h2>
+  <p>Primautomotive adalah aplikasi sewa mobil berbasis website yang dikembangkan menggunakan NextJS 13🚀.</p>
   <p>Pada Project ini telah diimplementasikan beberapa hal berikut:</p>
   <ul>
     <li>Next13 App Router, Server & Client side rendering</li>
